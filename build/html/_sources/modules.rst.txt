@@ -1,0 +1,10 @@
+calc
+====
+
+.. toctree::
+   :maxdepth: 4
+
+This is simple console calculator!
+It can perform simple arithmetic operations (+,-,*,/)
+
+!!!And you CANNOT divide by zero!!!
